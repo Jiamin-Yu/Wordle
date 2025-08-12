@@ -1,0 +1,177 @@
+Wordle> NEW
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w e r t z u i o p
+a s d f g h j k l
+y x c v b n m
+
+Wordle> G guess
+  g (u) e  s  s
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w   r t z u i o p
+a   d f   h j k l
+y x c v b n m
+
+Wordle> G water
+  g (u) e  s  s
+  w  a  t  e (r)
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q     r   z u i o p
+    d f   h j k l
+y x c v b n m
+
+Wordle> G melon
+  g (u) e  s  s
+  w  a  t  e (r)
+  m  e  l  o  n
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q     r   z u i   p
+    d f   h j k
+y x c v b
+
+Wordle> G state
+  g (u) e  s  s
+  w  a  t  e (r)
+  m  e  l  o  n
+  s  t  a  t  e
+ _  _  _  _  _
+ _  _  _  _  _
+q     r   z u i   p
+    d f   h j k
+y x c v b
+
+Wordle> G cross
+  g (u) e  s  s
+  w  a  t  e (r)
+  m  e  l  o  n
+  s  t  a  t  e
+  c [r] o  s  s
+ _  _  _  _  _
+q     r   z u i   p
+    d f   h j k
+y x   v b
+
+Wordle> G still
+  g (u) e  s  s
+  w  a  t  e (r)
+  m  e  l  o  n
+  s  t  a  t  e
+  c [r] o  s  s
+  s  t (i) l  l
+q     r   z u i   p
+    d f   h j k
+y x   v b
+Wordle> G pills
+  g (u) e  s  s
+  w  a  t  e (r)
+  m  e  l  o  n
+  s  t  a  t  e
+  c [r] o  s  s
+  s  t (i) l  l
+  p (i) l  l  s
+[d][r][u][i][d]
+q     r   z u i
+    d f   h j k
+y x   v b
+
+Wordle> NEW still
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w e r t z u i o p
+a s d f g h j k l
+y x c v b n m
+
+Wordle> G still
+ [s][t][i][l][l]
+Wordle> NEW still
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w e r t z u i o p
+a s d f g h j k l
+y x c v b n m
+
+Wordle> G guess
+  g  u  e (s) s
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w   r t z   i o p
+a   d f   h j k l
+y x c v b n m
+
+Wordle> G might
+  g  u  e (s) s
+  m (i) g  h (t)
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q w   r t z   i o p
+a   d f     j k l
+y x c v b n
+
+Wordle> G water
+  g  u  e (s) s
+  m (i) g  h (t)
+  w  a (t) e  r
+ _  _  _  _  _
+ _  _  _  _  _
+ _  _  _  _  _
+q       t z   i o p
+    d f     j k l
+y x c v b n
+
+Wordle> G cross
+  g  u  e (s) s
+  m (i) g  h (t)
+  w  a (t) e  r
+  c  r  o (s) s
+ _  _  _  _  _
+ _  _  _  _  _
+q       t z   i   p
+    d f     j k l
+y x   v b n
+
+Wordle> G melon
+  g  u  e (s) s
+  m (i) g  h (t)
+  w  a (t) e  r
+  c  r  o (s) s
+  m  e (l) o  n
+ _  _  _  _  _
+q       t z   i   p
+    d f     j k l
+y x   v b
+Wordle> G still
+  g  u  e (s) s
+  m (i) g  h (t)
+  w  a (t) e  r
+  c  r  o (s) s
+  m  e (l) o  n
+ [s][t][i][l][l]
+Wordle> QUIT
+
+Process finished with exit code 0
